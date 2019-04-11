@@ -1,0 +1,2 @@
+Opis
+Mikrokontroler z rodziny AVR firmy Atmel w 28-nó¿kowej obudowie przewlekanej - DIP. Zasilany napiêciem z zakresu od 2,7 V do 5,5 V, taktowany sygna³em zegarowym o czêstotliwoœci do 16 MHz. Posiada 8 kB pamiêci Flash, 1 kB RAM, 512 B EEPROM.

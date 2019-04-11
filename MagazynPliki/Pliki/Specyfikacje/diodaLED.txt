@@ -1,0 +1,10 @@
+Parametry:
+Soczewka w kolorze zielonym
+Obudowa: DIP 3 mm
+D³ugoœæ emitowanej fali: 625 - 645 nm
+Jasnoœæ: 450 - 800 mcd
+K¹t œwiecenia : 70 °
+Temp. pracy: od -40 °C do +80 °C
+Parametry pracy:
+Pr¹d If: 20 mA
+Napiêcie Vf: 2,0 - 2,3 V

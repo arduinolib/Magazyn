@@ -1,0 +1,5 @@
+Specyfikacja
+
+pojemnoœæ     - 100nF
+
+napiêcie max. - 50V

@@ -1,0 +1,1 @@
+Konwerter, który umo¿liwia komunikacjê pomiêdzy interfejsami szeregowymi USB i UART. Pozwala na wymianê danych miêdzy komputerem a uk³adami wykorzystuj¹cymi mikrokontrolery. Modu³ oparty na uk³adzie PL2303. W systemie operacyjnym widoczny jako wirtualny port COM.

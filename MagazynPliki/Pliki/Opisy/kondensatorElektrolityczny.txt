@@ -1,0 +1,24 @@
+Kondensator elektrolityczny – typ kondensatora, w którym rolê jednej z elektrod pe³ni elektrolit. Pozwala na pozyskanie wiêkszej pojemnoœci w stosunku do wielkoœci ni¿ inne rodzaje kondensatorów.
+
+Budowa
+Kondensator elektrolityczny zbudowany jest z elektrody metalowej i elektrolitowej, które pod³¹czone s¹ do wyprowadzeñ i rozdzielone s¹ warstw¹ dielektryka. Elektroda metalowa wykonana jest zazwyczaj z aluminium lub tantalu, a rolê dielektryka pe³ni cienka warstwa tlenku metalu (np. tlenku glinu).
+
+Charakterystyka
+du¿a pojemnoœæ,
+ma³e rozmiary,
+ma³a rezystancja szeregowa,
+ma³a indukcyjnoœæ szeregowa,
+poprawne dzia³anie tylko dla ma³ych czêstotliwoœci,
+poprawne dzia³anie tylko przy odpowiednim spolaryzowaniu.
+Rodzaje
+Kondensatory elektrolityczne aluminiowe
+Dostêpne w zakresie pojemnoœci od 1 µF do 1 F, przystosowane do pracy z napiêciem sta³ym rzêdu kilkuset woltów. Dielektrykiem jest cienka (< 1 µm) warstwa tlenku glinu.
+
+Kondensatory elektrolityczne tantalowe
+Dostêpne w zakresie pojemnoœci do ok. 3000 µF. Dielektrykiem jest cienka warstwa tlenku tantalu(V) (Ta2O5). W porównaniu do kondensatorów aluminiowych, maj¹ znacznie bardziej stabiln¹ pojemnoœæ i mniejsz¹ up³ywnoœæ, jak równie¿ bardzo nisk¹ impedancjê przy niskich czêstotliwoœciach pracy. Nie s¹ jednak odporne na piki napiêciowe i ulegaj¹ zniszczeniu (któremu mo¿e towarzyszyæ ich eksplozja), jeœli zostan¹ odwrotnie spolaryzowane lub nara¿one nawet na krótkie impulsy napiêcia przekraczaj¹ce ich znamionowe napiêcie pracy.
+
+Kondensatory elektrolityczne niobowe
+Maj¹ konstrukcjê tak¹ sam¹ jak kondensatory tantalowe i porównywalne z nimi w³aœciwoœci. Dielektrykiem jest cienka warstwa tlenku niobu(V) (Nb2O5). Oferowane s¹ w w¹skim zakresie pojemnoœci i na napiêcia do 10 V[3].
+
+Kondensatory elektrolityczne niskoimpedancyjne
+S¹ to kondensatory elektrolityczne o bardzo ma³ej impedancji.

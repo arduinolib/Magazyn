@@ -1,0 +1,20 @@
+Rezonator kwarcowy
+16MHZ Crystal.jpg
+Typowy rezonator kwarcowy w obudowie HC-49/S
+Typ	elektromechanizczny
+Zasada dzia³ania	piezoelektrycznoœæ, rezonans
+Wynalazca	Alexander M. Nicholson, Walter Guyton Cady
+Wprowadzenie na rynek	1918
+Symbol
+Crystal-oscillator-IEC-Symbol.svg
+
+Rezonator kwarcowy na karcie muzycznej X-Fi Fatal1ty Pro
+
+Rezonatory kwarcowe
+Rezonator kwarcowy – element elektroniczny, którego zasada dzia³ania oparta jest na zjawisku piezoelektrycznym w krysztale kwarcu. Przyrz¹d ma za zadanie stabilizacjê czêstotliwoœci drgañ oscylatorów elektronicznych. Czêstotliwoœci pracy tego typu rezonatorów zawieraj¹ siê w granicach od kilkudziesiêciu kHz do kilkudziesiêciu MHz, zaœ w wykonaniach specjalnych osi¹gaj¹ nawet setki MHz.
+
+Rezonatory kwarcowe mog¹ stabilizowaæ drgania w uk³adach elektronicznych z dostatecznie du¿¹ precyzj¹, dziêki czemu znajduj¹ zastosowanie w radiotechnice, technice cyfrowej jako lokalne wzorce czêstotliwoœci i czasu.
+
+Zasada dzia³ania opiera siê na wzajemnym sprzê¿eniu pola elektrycznego z mechanicznym polem odkszta³ceñ p³ytki kwarcowej. Sprzê¿enie to zachodzi dziêki zjawiskom piezoelektrycznym zachodz¹cym w krysztale kwarcu. Pole elektryczne uzyskiwane jest zwykle za pomoc¹ naniesionych na p³ytkê kwarcow¹ cienkich elektrod metalowych i podaniu na nie napiêcia. Jeœli napiêcie to jest zmienne w czasie, to obserwuje siê zjawisko rezonansów mechanicznych p³ytki na okreœlonych czêstotliwoœciach, przy czym istnieje du¿a liczba (teoretycznie nieskoñczenie wielka) sposobów drgañ p³ytek. Sposób drgania p³ytki zale¿y od jej orientacji krystalograficznej, kszta³tu oraz rodzaju naniesionych elektrod. Do najczêœciej stosowanych kszta³tów nale¿¹ belki, wide³ki (rezonatory kamertonowe) oraz dyski.
+
+Ka¿dy rezonator obok czêstotliwoœci podstawowej (tzw. mod podstawowy), mo¿e te¿ drgaæ z czêstotliwoœciami ponadpodstawowymi (tzw. owertony – zwykle nieparzyste wielokrotnoœci modu podstawowego) oraz paso¿ytniczymi.

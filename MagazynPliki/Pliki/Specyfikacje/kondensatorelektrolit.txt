@@ -1,0 +1,5 @@
+Specyfikacja
+
+pojemnoœæ     - 220µF
+
+napiêcie max. - 35V

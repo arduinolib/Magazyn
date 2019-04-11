@@ -1,0 +1,2 @@
+Dioda RGB 
+- trzy kolory w jednej obudowie. Dziêki temu œwiat³o wynikowe mo¿e mieæ praktycznie dowoln¹ barwê, gdy¿ mo¿na mieszaæ trzy kolory podstawowe. Obudowa diody jest albo przeŸroczysta (tak jak na zdjêciu) lub matowa. Od XII 2016 diodê sprzedajemy bez rezystorów. Przy zasilaniu 5V, sugerujemy u¿ycie rezystorów 220 ?.

@@ -1,0 +1,7 @@
+Dioda Schottky’ego (wym. szotkiego) – dioda pó³przewodnikowa, w której w miejsce z³¹cza p-n zastosowano z³¹cze metal-pó³przewodnik. Charakteryzuje siê ma³¹ pojemnoœci¹ z³¹cza, dziêki czemu typowy czas prze³¹czania wynosi tylko oko³o 100 ps.
+
+Diody Schotky'ego o ma³ych wymiarach mog¹ dzia³aæ przy czêstotliwoœci dochodz¹cej do kilkudziesiêciu GHz. Natomiast diody na du¿e pr¹dy znajduj¹ zastosowanie w impulsowych urz¹dzeniach energoelektronicznych takich jak zasilacze impulsowe (np. zasilacz komputerowy), falowniki czy przetwornice napiêcia i czêstotliwoœci pracuj¹ce z czêstotliwoœci¹ od 200 kHz do 2 MHz. Pozwala to na znaczn¹ miniaturyzacjê tych urz¹dzeñ, jak równie¿ osi¹gniêcie du¿ej sprawnoœci dochodz¹cej do 90%.
+
+Diody Schottky’ego maj¹ równie¿ dwukrotnie mniejszy spadek napiêcia w kierunku przewodzenia (UF = 0,3 V) ni¿ diody krzemowe (UF = 0,6-0,7 V). Zwykle maksymalne napiêcie wsteczne jest niewielkie i nie przekracza 100 V.
+
+Nazwa tej diody pochodzi od nazwiska niemieckiego fizyka Waltera Schottky’ego.

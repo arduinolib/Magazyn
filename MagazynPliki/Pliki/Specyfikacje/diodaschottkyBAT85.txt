@@ -1,0 +1,6 @@
+Dioda Schottkiego
+Cechy:
+URRM 30 V
+IF 0,2 A
+UF 0,4 V
+obudowa szklana

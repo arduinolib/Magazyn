@@ -1,0 +1,9 @@
+Opornik, rezystor (z ³ac. resistere, stawiaæ opór) – najprostszy element bierny obwodu elektrycznego, wykorzystywany jest do ograniczenia pr¹du w nim p³yn¹cego. Jest elementem liniowym: wystêpuj¹cy na nim spadek napiêcia jest wprost proporcjonalny do pr¹du p³yn¹cego przez opornik. Przy przep³ywie pr¹du zamienia energiê elektryczn¹ w ciep³o. Idealny opornik posiada tylko jedn¹ wielkoœæ, która go charakteryzuje – rezystancjê. W praktyce wystêpuje jeszcze pojemnoœæ wewnêtrzna oraz wewnêtrzna indukcyjnoœæ, co, np. w technice wysokich czêstotliwoœci (RTV), ma du¿e znaczenie (jest to tzw. pojemnoœæ oraz indukcyjnoœæ paso¿ytnicza). W technologii bardzo wysokich czêstotliwoœci – kilkuset megaherców (MHz) i powy¿ej – w³aœciwoœci paso¿ytnicze typowego rezystora musz¹ byæ traktowane jako wartoœci rozproszone, tzn. roz³o¿one wzd³u¿ jego fizycznych wymiarów.
+
+Podstawowe parametry opisuj¹ce opornik to:
+
+rezystancja nominalna – rezystancja podawana przez producenta na obudowie opornika, wyra¿ona w omach i przyjmuj¹ca wartoœci okreœlane wed³ug szeregów wartoœci; rezystancja rzeczywista ró¿ni siê od rezystancji nominalnej, jednak zawsze mieœci siê w podanej klasie tolerancji. Czêsto u¿ywanym parametrem jest konduktancja wyra¿ana w simensach
+tolerancja – inaczej klasa dok³adnoœci; podawana w procentach mo¿liwa odchy³ka rzeczywistej wartoœci opornika od jego wartoœci nominalnej
+moc znamionowa – moc jak¹ opornik mo¿e przez d³u¿szy czas wydzielaæ w postaci ciep³a bez wp³ywu na jego parametry; przekroczenie tej wartoœci mo¿e prowadziæ do zmian innych parametrów rezystora (np. rezystancji) lub jego uszkodzenia,
+napiêcie graniczne – maksymalne napiêcie jakie mo¿na przy³o¿yæ do opornika bez obawy o jego zniszczenie,
+temperaturowy wspó³czynnik rezystancji – wspó³czynnik okreœlaj¹cy zmiany rezystancji pod wp³ywem zmian temperatury opornika.

@@ -1,0 +1,9 @@
+Specyfikacja
+
+Napiêcie zasilania: od 2 V do 6 V
+Kompatybilny ze standardami CMOS i TTL
+Pr¹d wyjœciowy na kana³: do 25 mA
+Temperatura pracy: od -55 °C do 125 °C
+Parametry przy zasilaniu napiêciem 4,5 V:
+Rezystancja za³¹czonego kana³u (On): 70 ?
+Czas odpowiedzi: 6 ns

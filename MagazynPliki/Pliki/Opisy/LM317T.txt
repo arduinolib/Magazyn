@@ -1,0 +1,15 @@
+
+Uk³ad Ÿród³a pr¹dowego zbudowany z u¿yciem LM317
+
+Uk³ad wyprowadzeñ uk³adu LM317T z ukazaniem Ÿród³a napiêcia odniesienia
+
+Uk³ad LM317 z radiatorem
+Uk³ad scalony LM317 jest nastawnym scalonym stabilizatorem napiêcia dodatniego. Zosta³ skonstruowany przez Roberta C. Dobkina i Roberta J. Widlara w roku 1970 podczas ich pracy w firmie National Semiconductor.
+
+Specyfikacja
+Parametr	                                Wartoœæ
+
+Zakres regulacji napiêcia wyjœciowego Vout	1,25 V – 37 V
+Spadek napiêcia na stabilizatorze Vin - Vout	3 V – 40 V
+Dopuszczalna temperatura otoczenia	        0? – 125?
+Dopuszczalny pr¹d wyjœciowy Imax	mniejszy ni¿ 1,5 A (z zastosowaniem radiatora zalecanego przez producenta)

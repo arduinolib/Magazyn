@@ -1,0 +1,12 @@
+Dioda Zenera (inaczej: stabilistor) – odmiana diody pó³przewodnikowej, której g³ównym parametrem jest napiêcie przebicia z³¹cza p-n. Po przekroczeniu napiêcia przebicia ma miejsce nag³y, gwa³towny wzrost pr¹du. W kierunku przewodzenia (anoda spolaryzowana dodatnio wzglêdem katody) zachowuje siê jak normalna dioda, natomiast przy polaryzacji zaporowej (katoda spolaryzowana dodatnio wzglêdem anody) mo¿e przewodziæ pr¹d po przekroczeniu okreœlonego napiêcia na z³¹czu, zwanego napiêciem przebicia. Przy niewielkich napiêciach (do ok. 5 V) podstawow¹ rolê odgrywa zjawisko Zenera, w zakresie od 5 do 7 V zjawisko Zenera i przebicie lawinowe, a powy¿ej 7 V – wy³¹cznie przebicie lawinowe. Napiêcie przebicia jest praktycznie niezale¿ne od p³yn¹cego pr¹du i zmienia siê bardzo nieznacznie nawet przy du¿ych zmianach pr¹du przebicia (dioda posiada w tym stanie niewielk¹ opornoœæ dynamiczn¹).
+
+Ró¿nica pomiêdzy zwyk³¹ diod¹ a diod¹ Zenera
+Nale¿y podkreœliæ, ¿e identycznie zachowuje siê ka¿da dioda pó³przewodnikowa. Cechami, które pozwalaj¹ wydzieliæ diody Zenera jako oddzieln¹ kategoriê elementów, s¹:
+
+przebicie niepowoduj¹ce uszkodzenia diody,
+napiêcie przebicia okreœlone dok³adnie, z niewielk¹ tolerancj¹, typowo 5% (dla np. diod prostowniczych wa¿ne jest, aby nie by³o mniejsze od zadanej wartoœci),
+ma³a opornoœæ dynamiczna,
+zapewnienie mo¿liwie gwa³townego przejœcia do stanu przebicia z³¹cza (mo¿liwe ostre "kolano" na charakterystyce I(U)).
+Zastosowanie
+Podstawowe zastosowanie diody Zenera to Ÿród³o napiêcia odniesienia w stabilizatorach, ponadto u¿ywana bywa do przesuwania poziomów napiêæ oraz jako element zabezpieczaj¹cy i przeciwprzepiêciowy (transil).
+

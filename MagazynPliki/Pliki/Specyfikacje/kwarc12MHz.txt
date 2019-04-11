@@ -1,0 +1,9 @@
+Kwarc w hermetycznej obudowie metalowej HC49/4H niskoprofilowej. Przeznaczony do pracy w rezonansie równoleg³ym lub szeregowym.
+Cechy:
+
+czêstotliwoœæ 12 MHz
+maksymalna moc 1 mW
+stabilnoœæ czêstotliwoœci wiêksza/równa 100 ppm dla temperatury 0 do +50 st.C
+stabilnoœæ czêstotliwoœci 30/50 ppm dla temperatury -10 do +60 st.C
+stabilnoœæ czêstotliwoœci 10 ppm dla temperatury -20 do +70 st.C
+maksymalne zu¿ycie - 2 ppm/pierwszy rok, 1 ppm/nastêpne

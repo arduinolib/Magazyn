@@ -1,0 +1,8 @@
+Dioda Zenera
+
+Wybrane parametry:
+
+Ptot 0,4 W
+UZ 3,6 V
+UTol +/-5%
+obudowa szklana

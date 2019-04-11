@@ -1,0 +1,50 @@
+Opis
+
+Budowa
+Tranzystor bipolarny sk³ada siê z trzech warstw pó³przewodnika o ró¿nym typie przewodnictwa: p-n-p lub n-p-n (istniej¹ wiêc dwa rodzaje tranzystorów bipolarnych: pnp i npn). Poszczególne warstwy nosz¹ nazwy:
+
+emiter (oznaczony przez E) warstwa silnie domieszkowana
+baza (oznaczona przez B) warstwa cienka i s³abo domieszkowana
+kolektor (oznaczony przez C)
+W ten sposób tworz¹ siê dwa z³¹cza p-n: baza-emiter (nazywane krótko z³¹czem emitera) oraz baza-kolektor (nazywane z³¹czem kolektora).
+
+Zasada dzia³ania
+W stanie aktywnym z³¹cze emiter-baza jest spolaryzowane w kierunku przewodzenia, a z³¹cze baza-kolektor – w kierunku zaporowym. Napiêcie baza-emiter powoduje przep³yw (wstrzykiwanie) noœników wiêkszoœciowych emitera przez to z³¹cze do bazy – (elektrony w tranzystorach npn lub dziury w tranzystorach pnp). Noœników przechodz¹cych w przeciwn¹ stronê, od bazy do emitera jest niewiele, ze wzglêdu na s³abe domieszkowanie bazy. Noœniki wstrzykniête z emitera do obszaru bazy dyfunduj¹ do obszarów mniejszej ich koncentracji w kierunku kolektora. Trafiaj¹ do obszaru z³¹cza baza-kolektor, a tu na skutek pola elektrycznego w obszarze zubo¿onym s¹ przyci¹gane do kolektora.
+
+W rezultacie, po przy³o¿eniu do z³¹cza baza – emiter napiêcia w kierunku przewodzenia, pop³ynie niewielki pr¹d miêdzy baz¹ a emiterem, umo¿liwiaj¹cy przep³yw du¿ego pr¹du miêdzy kolektorem a emiterem. Stosunek pr¹du kolektora do pr¹du bazy nazywany jest wzmocnieniem pr¹dowym tranzystora i oznacza siê greck¹ liter¹ ß.
+
+Za sygna³ steruj¹cy pr¹dem kolektora mo¿na uwa¿aæ zarówno pr¹d bazy, jak i napiêcie baza-emiter. Zale¿noœæ miêdzy tymi dwiema wielkoœciami opisuje charakterystyka wejœciowa tranzystora, bêd¹ca w zasadzie eksponencjaln¹ charakterystyk¹ z³¹cza pn spolaryzowanego w kierunku przewodzenia.
+
+Pr¹d bazy sk³ada siê z dwóch g³ównych sk³adników: pr¹du rekombinacji i pr¹du wstrzykiwania. Pr¹d rekombinacji to pr¹d powsta³y z rekombinacji w bazie noœników wstrzykniêtych z emitera do bazy z noœnikami komplementarnymi. Jest tym mniejszy im cieñsza i s³abiej domieszkowana jest baza. Pr¹d wstrzykiwania jest to pr¹d z³o¿ony z noœników wstrzykniêtych z bazy do emitera, jego wartoœæ zale¿y od stosunku koncentracji domieszek w obszarze bazy i emitera.
+
+Zastosowania
+
+Przyk³ad tranzystora pracuj¹cego jako wzmacniacz
+
+Przyk³ad tranzystora pracuj¹cego jako prze³¹cznik
+W zale¿noœci od punktu pracy tranzystor mo¿e znajdowaæ siê w czterech stanach
+
+Stan aktywny, w którym pr¹d kolektora jest ß razy wiêkszy od pr¹du bazy.
+Stan nasycenia, w którym pr¹d bazy jest na tyle du¿y, ¿e obwód kolektora nie jest w stanie dostarczyæ pr¹du ß razy wiêkszego. Napiêcie kolektor-emiter spada wtedy do niewielkiej wielkoœci.
+Stan zatkania, w którym z³¹cze baza-emiter nie jest spolaryzowane lub jest spolaryzowane zaporowo. Pr¹d kolektora spada wtedy do bardzo ma³ej wartoœci.
+Stan inwersyjny, w którym emiter spolaryzowany jest w kierunku zaporowym a kolektor w kierunku przewodzenia. Wzmocnienie pr¹dowe tranzystora w tym stanie jest niewielkie.
+Poszczególne stany tranzystora s¹ wykorzystywane w ró¿nych zastosowaniach.
+
+Jako wzmacniacz
+Tranzystor pracuj¹cy w stanie aktywnym mo¿e byæ wykorzystany do budowy uk³adu bêd¹cego wzmacniaczem natê¿enia pr¹du elektrycznego. Ma³e zmiany pr¹du elektrycznego p³yn¹cego w obwodzie bazy powoduj¹ du¿e zmiany pr¹du p³yn¹cego w obwodzie kolektora. W zale¿noœci od konstrukcji uk³adu mo¿na uzyskaæ wzmocnienie pr¹du, napiêcia lub obu tych wielkoœci.
+
+Jako prze³¹cznik
+Przy pracy tranzystora jako prze³¹cznik wykorzystuje siê przejœcie miêdzy stanem nasyconym (tranzystor w³¹czony) a zatkanym (tranzystor wy³¹czony). Taki tryb pracy tranzystora jest stosowany w niektórych uk³adach impulsowych oraz cyfrowych.
+
+wspólnego emitera (OE)
+wspólnej bazy (OB)
+wspólnego kolektora (OC)
+
+Uk³ad wspólnego emitera
+Wzmacniane napiêcie sygna³u wejœciowego podawane jest pomiêdzy bazê a emiter tranzystora, natomiast sygna³ po wzmocnieniu odbierany jest spomiêdzy kolektora a emitera. Elektroda emiter jest wiêc niejako "wspólna" dla sygna³ów wejœciowego i wyjœciowego – st¹d nazwa uk³adu.
+
+Uk³ad wspólnej bazy
+Wzmacniane napiêcie sygna³u wejœciowego podawane jest pomiêdzy bazê a emiter tranzystora, natomiast sygna³ po wzmocnieniu odbierany jest spomiêdzy bazy i kolektora.
+
+Uk³ad wspólnego kolektora
+Wzmacniane napiêcie sygna³u wejœciowego podawane jest pomiêdzy bazê a kolektor tranzystora, natomiast sygna³ po wzmocnieniu odbierany jest spomiêdzy kolektora i emitera. Wzmocnienie napiêciowe tego uk³adu jest bliskie jednoœci, wobec czego na wyjœciu wzmacniacza otrzymuje siê "powtórzone" napiêcie z wejœcia, st¹d druga powszechnie u¿ywana nazwa takich wzmacniaczy – wtórnik emiterowy.

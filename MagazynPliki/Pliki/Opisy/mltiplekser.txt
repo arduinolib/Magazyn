@@ -1,0 +1,3 @@
+Opis
+
+Modu³ z 16-kana³owym multiplekserem CD 74HC4067 (dokumentacja), pozwala na pod³¹czenie a¿ 16 sygna³ów do jednego wyprowadzenia analogowego. Uk³ad mo¿e pracowaæ tak¿e z sygna³ami cyfrowymi oraz jako demultiplekser (w drug¹ stronê). Oznacza to, ¿e z jednego pinu mo¿na wyprowadziæ a¿ 16 sygna³ów lub do jednego pinu mo¿na pod³¹czyæ 16 czujników. Modu³ zasilany jest napiêciem od 2 V do 6 V.

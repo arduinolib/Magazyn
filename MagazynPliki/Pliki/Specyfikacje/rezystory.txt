@@ -1,0 +1,5 @@
+Specyfikacja
+
+Rezystancja     - 220
+Moc max.        - 0.250W
+

@@ -1,0 +1,9 @@
+MAX232 – uk³ad scalony stosowany do konwersji napiêæ portu RS-232 na standard TTL na wejœciu i odwrotnie na wyjœciu.
+
+Na porcie RS-232C wystêpuj¹ napiêcia +15 V i -15 V, co uniemo¿liwia bezpoœrednie pod³¹czenie linii portu do urz¹dzeñ w standardzie TTL o poziomach napiêæ 0 V i 5 V lub CMOS (0 V i 1,8 V).
+
+Uk³ad MAX232 jest produktem firmy Maxim, natomiast istnieje wiele zamienników innych firm wystêpuj¹cych pod podobnymi oznaczeniami. Poszczególne wersje ró¿ni¹ siê na przyk³ad wymagan¹ pojemnoœci¹ kondensatorów do³¹czanych do uk³adu, potrzebnych do poprawnej pracy przetwornicy napiêcia - typowo od 0,1 µF do 1µF.
+
+Uk³ad jest chêtnie wykorzystywany przez producentów urz¹dzeñ przenoœnych, z uwagi na fakt, i¿ zawiera w sobie zintegrowan¹ przetwornicê napiêcia dzia³aj¹c¹ na zasadzie pompy ³adunku. Dziêki temu przy zasilaniu napiêciem 3 - 5 V uzyskuje siê na wyjœciach wymagane napiêcia -12 i 12 V potrzebne dla zapewnienia zgodnoœci ze standardem RS232.
+
+Obecnie wiele z urz¹dzeñ wspó³pracuje ju¿ z interfejsem przy napiêciach +8,5V -8,5V. Pojawi³y siê te¿ ró¿ne wersje z optoizolatorami zapewniaj¹cymi separacjê galwaniczn¹.

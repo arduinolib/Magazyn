@@ -1,0 +1,12 @@
+Opis teoretyczny
+
+Pole elektryczne na³adowanego kondensatora p³askiego o skoñczonych rozmiarach
+Doprowadzenie napiêcia do ok³adek kondensatora powoduje zgromadzenie siê na nich ³adunku elektrycznego. Po od³¹czeniu od Ÿród³a napiêcia, ³adunki utrzymuj¹ siê na ok³adkach si³ami przyci¹gania elektrostatycznego. Je¿eli kondensator, jako ca³oœæ, nie jest naelektryzowany to ca³y ³adunek zgromadzony na obu ok³adkach jest jednakowy co do wartoœci, ale przeciwnego znaku. Kondensator charakteryzuje pojemnoœæ okreœlaj¹ca zdolnoœæ kondensatora do gromadzenia ³adunku.
+
+Up³ywnoœæ
+Rzeczywiste kondensatory nie s¹ w stanie utrzymaæ ³adunku dowolnie d³ugo. Rzeczywisty kondensator (kondensator stratny) przedstawia siê jako uk³ad idealnego kondensatora z przy³¹czon¹ do niego równolegle rezystancj¹ R o du¿ej wartoœci. Zjawisko strat energii, spowodowane niedoskona³oœciami konstrukcji kondensatora i w³aœciwoœciami u¿ytego materia³u dielektryka, nazywa siê up³ywnoœci¹ kondensatora. Up³ywnoœæ wyra¿a siê za pomoc¹ tzw. tangensa k¹ta strat {\displaystyle \operatorname {tg} \delta ,} {\displaystyle \operatorname {tg} \delta ,} definiowanego jako stosunek pr¹dów ga³êziowych w uk³adzie zastêpczym kondensatora: p³yn¹cego przez opornik {\displaystyle R} R do p³yn¹cego przez kondensator {\displaystyle C.} {\displaystyle C.} Tangens strat jest tym samym u³amkiem energii rozpraszanej w rzeczywistym kondensatorze.
+
+Rezystancja szeregowa
+Idealny kondensator ma zerowy opór doprowadzeñ i ok³adek, w zwi¹zku z czym przep³ywowi pr¹du towarzysz¹cemu zmianom napiêcia (prze³adowywaniu kondensatora) nie towarzysz¹ straty energii na ciep³o Joule’a. W rzeczywistym kondensatorze zarówno doprowadzenia elektryczne, jak i ok³adki charakteryzuj¹ siê pewnym oporem; na schemacie zastêpczym rzeczywistego kondensatora ten dodatkowy opór po³¹czony jest szeregowo z kondensatorem idealnym. W odró¿nieniu od strat energii powodowanych up³ywnoœci¹, straty zwi¹zane z oporem szeregowym maj¹ znaczenie jedynie podczas ³adowania lub roz³adowywania kondensatora, a zatem przy przep³ywie pr¹du miêdzy kondensatorem a uk³adami zewnêtrznymi.
+
+Opór szeregowy ma szczególnie du¿e znaczenie w przypadku kondensatorów, z których okresowo pobierany jest du¿y pr¹d (np. kondensatorów przeciwzak³óceniowych lub zasilaj¹cych lampy wy³adowcze).

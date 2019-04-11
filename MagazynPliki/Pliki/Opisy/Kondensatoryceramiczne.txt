@@ -1,0 +1,7 @@
+Kondensatory ceramiczne
+  
+Produkowany jest z u¿yciem dielektryka o przenikalnoœci wzglêdnej er w granicach 10…600. Kondensatory te charakteryzuj¹ siê ma³ymi stratami i, co ciekawe, s¹ produkowane ze œciœle okreœlonym wspó³czynnikiem temperaturowym w zakresie -1500… +150ppm/K. Umo¿liwia to ³atw¹ kompensacjê temperaturow¹ obwodów rezonansowych.
+
+Niektóre katalogi (w tym krajowe) zawieraj¹ oznaczenia wspó³czynnika temperaturowego w postaci np. N750, NPO, P150 itp. co oznacza odpowiednio -750, ±0, +150ppm/K (czyli -0,075, ±0, +0,015%/’C). W  wiêkszoœci zachodnich katalogów zamiast NPO znajdziesz okreœlenia C0G lub nowsze CG, które wskazuj¹, ¿e kondensatory te maj¹ zerowy wspó³czynnik temperaturowy.
+
+Kondensatory ceramiczne typ 1 to bodaj najlepsze z popularnych kondensatorów, ale niestety zakres ich pojemnoœci jest ograniczony do co najwy¿ej kilku…kilkunastu nanofaradów.

@@ -1,0 +1,5 @@
+Specyfikacja
+Napiêcie wyjœciowe: od 1,2 V do 37 V regulowane
+Pr¹d wyjœciowy: 1,5 A
+Obudowa: TO220
+Monta¿: THT

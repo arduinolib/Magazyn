@@ -1,0 +1,11 @@
+Dane techniczne:
+
+Typ tranzystora: unipolarny, N-MOSFET, HEXFET
+Napiecie dren-Ÿród³o: 50V
+Pr¹d drenu: 16A
+Moc: 70W
+Obudowa: TO220
+Napiêcie bramka-Ÿród³o: 20V
+Rezystencja w stanie przewodzenia: 120m?
+Rezystencja termincza z³¹cze-obudowa: 2,14K/W
+Monta¿: THT?

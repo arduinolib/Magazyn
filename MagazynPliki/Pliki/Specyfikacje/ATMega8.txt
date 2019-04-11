@@ -1,0 +1,14 @@
+Specyfikacja:
+Zasilanie: 2,7 V - 5,5 V 
+Taktowanie: do 16 MHz
+Pamiêæ Flash: 8 kB
+Pamiêæ RAM: 1 kB
+Pamiêæ EEPROM: 512 B
+23 linie wyjœcia/wejœcia
+Dwa 8-bitowe Liczniki 
+Jeden 16-bitowy licznik
+Trzy kana³y PWM
+6 kana³ów 10-bitowego przetwornika analogowo-cyfrowego
+Sprzêtowe interfejsy komunikacyjne: USART, SPI
+Piêæ trybów uœpienia
+Obudowa przewlekana DIP28

@@ -1,0 +1,5 @@
+Specyfikacja
+
+Napiêcie Vdrm: maks. 400 V
+Pr¹d It: maks. 0,1 A
+Obudowa: DIP 6 (przewlekana) 

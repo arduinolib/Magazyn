@@ -1,0 +1,50 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+#include <Controls.hpp>
+#include <StdCtrls.hpp>
+#include <Forms.hpp>
+#include <Menus.hpp>
+#include <ExtCtrls.hpp>
+#include <jpeg.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+        TMainMenu *MainMenu1;
+        TMenuItem *Katalogi1;
+        TMenuItem *Elektronika1;
+        TMenuItem *Literatura1;
+        TMenuItem *Zamknij1;
+        TImage *Image1;
+        TMenuItem *DokumentacjaPDFmikrokontrolerwAVR1;
+        TMenuItem *MikrokontrolerryAVR1;
+        TMenuItem *Tranzystory1;
+        TMenuItem *Ukadyscalone1;
+        TMenuItem *Interfejsy1;
+        TMenuItem *Komparatory1;
+        TMenuItem *adowarki1;
+        TMenuItem *Mostkiprostownicze1;
+        TMenuItem *Multipleksery1;
+        TMenuItem *Optoizilatory1;
+        TMenuItem *Przetworniki1;
+        TMenuItem *Triaki1;
+        TMenuItem *Ukadylogiczne1;
+        void __fastcall FormCreate(TObject *Sender);
+        void __fastcall Elektronika1Click(TObject *Sender);
+        void __fastcall Zamknij1Click(TObject *Sender);
+        void __fastcall MikrokontrolerryAVR1Click(TObject *Sender);
+        void __fastcall Tranzystory1Click(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+        __fastcall TForm1(TComponent* Owner);
+        void __fastcall TForm1::WyczyscGrid();
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif
+ 

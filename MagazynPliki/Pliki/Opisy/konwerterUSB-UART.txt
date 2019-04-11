@@ -1,0 +1,2 @@
+Opis
+Konwerter umo¿liwia komunikacjê pomiêdzy dwoma popularnymi interfejsami szeregowymi USB i UART. Modu³ oparty na uk³adzie PL2303. Uk³ad wspó³pracuje z systemem Windows 7, bez koniecznoœci instalacji sterowników. Modu³ mo¿e byæ wykorzystany do wymiany danych miêdzy komputerem a systemem mikrokontrolerowym lub do programowania zestawów elektronicznych z wyprowadzonym interfejsem szeregowym np. Arduino lub STM32Discovery. W systemie operacyjnym widoczny jako wirtualny port COM.

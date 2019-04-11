@@ -1,0 +1,10 @@
+LAA110 jest przekaŸnikiem pó³przewodnikowym , który ma dwa
+niezale¿nie kontrolowane sprzê¿one optycznie MOSFET. 
+Wydajne prze³¹czniki MOSFET i zastosowanie matryc fotowoltaicznych
+Opatentowana przez Clare technologia OptoMOS® zapewnia 3750
+VRMS izolacji od wejœcia do wyjœcia. Optycznie sprzê¿ony
+wejœcia kontrolowane s¹ przez wysoce wydajn¹ podczerwieñ GaAIAs
+Diody LED. Dwubiegunowe przekaŸniki OptoMOS zapewniaj¹ bardziej zwart¹ budowê
+rozwi¹zanie projektowe ni¿ dyskretne przekaŸniki jednobiegunowe w ró¿nych odmianach
+aplikacji. Dwubiegunowe przekaŸniki pozwalaj¹ zaoszczêdziæ miejsce na pok³adzie o
+zawieraj¹ce oba przekaŸniki w jednym opakowaniu 8-pinowym.

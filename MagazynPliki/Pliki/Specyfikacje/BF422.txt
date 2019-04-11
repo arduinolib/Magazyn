@@ -1,0 +1,10 @@
+Specyfikacja
+
+Typ tranzystora	            NPN	
+Polaryzacja	            bipolarny	
+Napiêcie kolektor-emite     250V	
+Pr¹d kolektora	            100mA	
+Moc	                    625mW	
+Obudowa	                    TO92	
+Monta¿	                    THT	
+Czêstotliwoœæ	            60MHz
